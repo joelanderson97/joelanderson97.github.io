@@ -1,0 +1,163 @@
+body {
+    background-color: #499EB2;
+}
+
+
+.logo {
+    background-color: #C19D67;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin: -150px 550px;
+    padding: -50px;
+}
+
+.topnav {
+    background-color: #281200;
+    overflow: hidden;
+    height: 100px;
+}
+
+.topnav a {
+    float: left;
+    color:#B55200;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 50px;
+    height: 100px;
+}
+
+.topnav a:hover {
+    color: #499EB2;
+}
+
+
+
+a:hover {
+    color: #EAB535;
+     
+}
+a:active {
+    color:#B55200;
+    text-decoration: underline;
+}
+
+q { 
+    color: #EAB535;
+    font-size: 25px;
+    font-family: 'Myriad Pro', Arial, sans-serif;
+}
+
+.home_text {
+    background-color: #281200;
+    color: #C19D67;
+    margin: 200px 30px;
+    height: 500px;
+    width: 305px;
+    font-size: 20px;
+    padding: 40px 30px;
+    border-radius: 3%;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+
+}
+ .facts { 
+    background-color: #281200;
+    color: #C19D67;
+    height: 300px;
+    width:300px;
+    margin: -450px 1020px;
+    border-radius: 3%;
+    padding: 10px 30px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+.facts2 { 
+    background-color: #281200;
+    color: #C19D67;
+    height: 280px;
+    width:520px;
+    margin: 20px 800px;
+    border-radius: 3%;
+    padding: 10px 30px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+.menu {
+    background-color: #281200;
+    color: #C19D67;
+    border-radius: 3%;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    height: 650px;
+    width: 650px;
+    margin: 200px 30px;
+    padding: 10px 20px;
+
+}
+
+.top_sellers {
+    background-color: #281200;
+    color: #C19D67;
+    border-radius: 3%;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    margin: -735px 820px;
+    padding: 10px 25px;
+    height: 300px;
+    width: 265px;
+}
+
+.about {
+    background-color: #281200;
+    color: #C19D67;
+    border-radius: 3%;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    height: 750px;
+    width: 550px;
+    margin: 200px 30px;
+    padding: 50px 40px;
+}
+
+.information {
+    background-color: #281200;
+    color: #C19D67;
+    border-radius: 4%;
+    font-size: 22px;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    margin: 200px 30px;
+    padding: 10px 25px;
+    height: 200px;
+    width: 520px;
+}
+
+.form_container{
+    background-color: #281200;
+    color: #C19D67;
+    border-radius: 3%;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    height: 400px;
+    width: 500px;
+    margin: 200px 400px;
+    padding: 50px 40px;
+}
+
+input{
+    color: #281200;
+}
+.submit_container{
+    background-color: #281200;
+    color: #C19D67;
+    border-radius: 3%;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    height: 200px;
+    width: 500px;
+    margin: 200px 400px;
+    padding: 50px 40px;
+}
+
